@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="StudentGradeWebMaven:war">
+    <output-path>$PROJECT_DIR$/StudentGradeWebMaven/target</output-path>
+    <root id="archive" name="StudentGradeEjb.war">
+      <element id="artifact" artifact-name="StudentGradeWebMaven:war exploded" />
+    </root>
+  </artifact>
+</component>

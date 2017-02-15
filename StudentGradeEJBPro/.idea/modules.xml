@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentGradeEJB/StudentGradeEJB.iml" filepath="$PROJECT_DIR$/StudentGradeEJB/StudentGradeEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentGradeEJBPro.iml" filepath="$PROJECT_DIR$/StudentGradeEJBPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentGradeWebMaven/StudentGradeWebMaven.iml" filepath="$PROJECT_DIR$/StudentGradeWebMaven/StudentGradeWebMaven.iml" />
+    </modules>
+  </component>
+</project>
