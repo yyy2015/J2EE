@@ -1,6 +1,7 @@
 package edu.nju.student.grade.servlet;
 
 import edu.nju.student.grade.business.ScoreListBean;
+import edu.nju.student.grade.model.Score;
 import edu.nju.student.grade.service.GradeManageService;
 
 import javax.ejb.EJB;
@@ -13,6 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 
 /**
  * Created by yyy on 2017/1/2.
@@ -76,7 +78,14 @@ public class ShowGradeServlet extends HttpServlet {
             out.print("<a href='login.html'>登录</a><br><br>");
         }else {
                 session.setAttribute("studentId", studentId);
+                session.setAttribute("password",password);
                 scoreList.setScoreList(gradeManageService.getStudentGrade(studentId, password));
+
+                ArrayList<Score> testList = (ArrayList<Score>) gradeManageService.getStudentGrade(studentId,password);
+                for(Score score:testList){
+                    System.out.println(score.getCourseName());
+                }
+
                 session.setAttribute("scoreList", scoreList);
                 context.getRequestDispatcher("/jsp/showGrade.jsp").forward(request, response);
             }

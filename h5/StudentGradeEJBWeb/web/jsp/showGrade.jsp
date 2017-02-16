@@ -5,6 +5,7 @@
   Time: 0:33
   To change this template use File | Settings | File Templates.
 --%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" import="java.util.*" %>
 <%@ page import="edu.nju.student.grade.model.Score" %>
 <%@ taglib prefix="MyTag" uri="/WEB-INF/tlds/checkSession.tld" %>
@@ -13,6 +14,7 @@
     <title>show grade</title>
 </head>
 <body>
+
 
 <MyTag:checkSession/>
 
@@ -50,7 +52,7 @@ scope="page" ></jsp:useBean>
 
 <span>Click <a href=<%=response.encodeURL(request.getRequestURI()) %> >here</a> to reload this page.</span><br><br>
 
-<form method="GET" action="Grade">
+<form method="GET" action="/StudentGradeEJBWeb_war_exploded/Grade">
     <input type="submit" name="logout" value="logout">
 </form>
 
