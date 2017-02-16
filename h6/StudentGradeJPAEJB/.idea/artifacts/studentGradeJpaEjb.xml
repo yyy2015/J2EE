@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="studentGradeJpaEjb">
+    <output-path>$PROJECT_DIR$/out/artifacts/studentGradeJpaEjb</output-path>
+    <root id="archive" name="studentGradeJpaEjb.jar">
+      <element id="module-output" name="StudentGradeJPAEJB" />
+      <element id="library" level="project" name="JPA 2.0-2.0" />
+      <element id="library" level="project" name="Java EE 6-Java EE 6" />
+      <element id="jpa-descriptors" facet="StudentGradeJPAEJB/jpa/JPA" />
+    </root>
+  </artifact>
+</component>

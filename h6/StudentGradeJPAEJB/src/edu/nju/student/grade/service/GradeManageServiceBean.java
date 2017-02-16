@@ -1,6 +1,7 @@
 package edu.nju.student.grade.service;
 
 import edu.nju.student.grade.dao.StudentGradeDao;
+import edu.nju.student.grade.model.Grade;
 import edu.nju.student.grade.model.Score;
 
 import javax.ejb.EJB;
@@ -23,7 +24,7 @@ public class GradeManageServiceBean implements GradeManageService {
 
     @Override
     public List getStudentGrade(String studentId, String password) {
-        ArrayList<Score> scoreList = new ArrayList<Score>();
+        ArrayList<Grade> scoreList = new ArrayList<Grade>();
 
         if(isStudentExit(studentId)&&isPasswordCorrect(studentId,password)){
             ArrayList<String> courseList =
@@ -32,7 +33,7 @@ public class GradeManageServiceBean implements GradeManageService {
                 ArrayList<Double> markList =
                         (ArrayList<Double>)studentGradeDao.findScore(studentId,courseId);
                 String courseName = studentGradeDao.findCourseName(courseId);
-                Score score = new Score(courseId,courseName,markList);
+                Grade score = new Grade(courseId,courseName,markList);
                 scoreList.add(score);
             }
 

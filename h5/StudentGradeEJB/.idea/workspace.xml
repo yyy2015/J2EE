@@ -7,49 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2380f44-c904-4f34-b1c4-b84bef40d84c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/libraries/JPA_2_0_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/JPATest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/JPATest/src/META-INF/persistence.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/libraries/JPA_2_0_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/StudentGradeJPAEJB.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/META-INF/persistence.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/DaoHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/DaoHelperImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/StudentGradeDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/factory/EJBFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Course.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Score.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/ScorePK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/Score.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/service/GradeManageService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/service/GradeManageServiceBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeEJBWeb/out/artifacts/StudentGradeEJBWeb_war_exploded/WEB-INF/classes/edu/nju/student/grade/servlet/ShowGradeServlet.class" afterPath="$PROJECT_DIR$/../StudentGradeEJBWeb/out/artifacts/StudentGradeEJBWeb_war_exploded/WEB-INF/classes/edu/nju/student/grade/servlet/ShowGradeServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeEJBWeb/out/production/StudentGradeEJBWeb/edu/nju/student/grade/servlet/ShowGradeServlet.class" afterPath="$PROJECT_DIR$/../StudentGradeEJBWeb/out/production/StudentGradeEJBWeb/edu/nju/student/grade/servlet/ShowGradeServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../StudentGradeMVC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../StudentGradeMVC/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJBWeb/web/WEB-INF/lib/studentGradeJpaEjb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/artifacts/studentGradeJpaEjb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/Grade.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/dataSources.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/libraries/JPA_2_0_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/JPATest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/lib/javax.persistence.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/JPATest/src/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/DaoHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/DaoHelperImpl.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeEJBWeb/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StudentGradeEJBWeb/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeEJBWeb/out/artifacts/StudentGradeEJBWeb_war_exploded/jsp/showGrade.jsp" afterPath="$PROJECT_DIR$/../StudentGradeEJBWeb/out/artifacts/StudentGradeEJBWeb_war_exploded/jsp/showGrade.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeEJBWeb/src/edu/nju/student/grade/servlet/ShowGradeServlet.java" afterPath="$PROJECT_DIR$/../StudentGradeEJBWeb/src/edu/nju/student/grade/servlet/ShowGradeServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeEJBWeb/web/jsp/showGrade.jsp" afterPath="$PROJECT_DIR$/../StudentGradeEJBWeb/web/jsp/showGrade.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/service/GradeManageServiceBean.java" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/service/GradeManageServiceBean.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Course.java" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/Course.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Score.java" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/Score.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/ScorePK.java" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/ScorePK.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Student.java" afterPath="$PROJECT_DIR$/../../h6/StudentGradeJPAEJB/src/edu/nju/student/grade/model/Student.java" />
     </list>
     <ignored path="StudentGradeEJB.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,11 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StudentGradeDaoBean.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentGradeDaoBean.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="66" column="62" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
+            <state relative-caret-position="323">
+              <caret line="76" column="61" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
               <folding>
                 <marker date="1487083683064" expanded="true" signature="757:812" ph="select DISTI... score" />
                 <marker date="1487083683064" expanded="true" signature="1442:1481" ph="select * fro... course" />
@@ -90,36 +73,10 @@
       <file leaf-file-name="Score.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/model/Score.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="306">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DaoHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/DaoHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DaoHelperImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/DaoHelperImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#693#694#0" expanded="false" />
-                <element signature="e#723#724#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -128,11 +85,9 @@
       <file leaf-file-name="StudentGradeDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/StudentGradeDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="68">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,29 +107,6 @@
                 <element signature="e#647#648#0" expanded="false" />
                 <element signature="e#687#688#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradeManageServiceBean.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/service/GradeManageServiceBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#644#651#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradeManageService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/service/GradeManageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -271,6 +203,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentGradeEJB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentGradeEJB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -721,12 +679,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487077945747</updated>
       <workItem from="1487077949921" duration="5603000" />
-      <workItem from="1487121854737" duration="3337000" />
+      <workItem from="1487121854737" duration="7471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8940000" />
+    <option name="totallyTimeSpent" value="13074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
@@ -829,9 +787,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -857,8 +813,8 @@
         <state relative-caret-position="119">
           <caret line="13" column="40" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#644#651#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#644#651#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -916,16 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/StudentGradeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -943,37 +889,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/service/GradeManageServiceBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="66" column="62" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
+        <state relative-caret-position="410">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
           <folding>
-            <marker date="1487083683064" expanded="true" signature="757:812" ph="select DISTI... score" />
-            <marker date="1487083683064" expanded="true" signature="1442:1481" ph="select * fro... course" />
-            <marker date="1487083683064" expanded="true" signature="2121:2197" ph="select * fro... score" />
-            <marker date="1487083683064" expanded="true" signature="3016:3071" ph="select count... student" />
-            <marker date="1487083683064" expanded="true" signature="3735:3805" ph="select count... student" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#644#651#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/model/Score.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/service/GradeManageServiceBean.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/StudentGradeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#644#651#0" expanded="true" />
+            <marker date="1487083683064" expanded="true" signature="757:812" ph="select DISTI... score" />
+            <marker date="1487083683064" expanded="true" signature="1442:1481" ph="select * fro... course" />
+            <marker date="1487083683064" expanded="true" signature="2121:2197" ph="select * fro... score" />
+            <marker date="1487083683064" expanded="true" signature="3016:3071" ph="select count... student" />
+            <marker date="1487083683064" expanded="true" signature="3735:3805" ph="select count... student" />
           </folding>
         </state>
       </provider>
