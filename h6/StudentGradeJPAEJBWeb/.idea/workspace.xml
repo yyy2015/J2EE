@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28db33d6-436b-48b2-8e0c-ecf0c597aabc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/studentGradeJpaEjb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/.idea/artifacts/studentGradeJpaEjb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/model/Grade.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/dataSources.local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/libraries/JPA_2_0_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/JPATest.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/lib/javax.persistence.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JPATest/src/META-INF/persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/dao/DaoHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/dao/DaoHelperImpl.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/StudentGradeEJBWeb_war_exploded/WEB-INF/classes/edu/nju/student/grade/filter/CharacterCodingFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/StudentGradeEJBWeb_war_exploded/WEB-INF/classes/edu/nju/student/grade/filter/CharacterCodingFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StudentGradeJPAEJBWeb/edu/nju/student/grade/filter/CharacterCodingFilter.class" afterPath="$PROJECT_DIR$/out/production/StudentGradeJPAEJBWeb/edu/nju/student/grade/filter/CharacterCodingFilter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../h5/StudentGradeEJB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../h5/StudentGradeEJB/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../h5/StudentGradeEJBWeb/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../h5/StudentGradeEJBWeb/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/META-INF/persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/dao/StudentGradeDaoBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/service/GradeManageServiceBean.java" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/service/GradeManageServiceBean.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Course.java" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/model/Course.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Score.java" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/model/Score.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/ScorePK.java" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/model/ScorePK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/jpaModel/Student.java" afterPath="$PROJECT_DIR$/../StudentGradeJPAEJB/src/edu/nju/student/grade/model/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nju/student/grade/filter/CharacterCodingFilter.java" afterPath="$PROJECT_DIR$/src/edu/nju/student/grade/filter/CharacterCodingFilter.java" />
     </list>
     <ignored path="StudentGradeEJBWeb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ShowGradeServlet.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShowGradeServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/servlet/ShowGradeServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="84" column="94" selection-start-line="84" selection-start-column="94" selection-end-line="84" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharacterCodingFilter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CharacterCodingFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/filter/CharacterCodingFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            <state relative-caret-position="374">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -90,8 +70,8 @@
       <file leaf-file-name="showGrade.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/jsp/showGrade.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -146,6 +126,7 @@
         <option value="$PROJECT_DIR$/web/login.html" />
         <option value="$PROJECT_DIR$/src/edu/nju/student/grade/tag/CheckSessionHandler.java" />
         <option value="$PROJECT_DIR$/web/jsp/showGrade.jsp" />
+        <option value="$PROJECT_DIR$/src/edu/nju/student/grade/filter/CharacterCodingFilter.java" />
         <option value="$PROJECT_DIR$/src/edu/nju/student/grade/servlet/ShowGradeServlet.java" />
       </list>
     </option>
@@ -257,6 +238,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentGradeJPAEJBWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentGradeJPAEJBWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -855,12 +854,12 @@
       <workItem from="1487121897431" duration="3191000" />
       <workItem from="1487221957214" duration="88000" />
       <workItem from="1487228230456" duration="227000" />
-      <workItem from="1487228806467" duration="3872000" />
+      <workItem from="1487228806467" duration="6255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12705000" />
+    <option name="totallyTimeSpent" value="15088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -875,7 +874,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13442624" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19508196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16393442" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1151,6 +1150,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1223,27 +1223,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/showGrade.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/filter/CharacterCodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/servlet/ShowGradeServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="84" column="94" selection-start-line="84" selection-start-column="94" selection-end-line="84" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/nju/student/grade/filter/CharacterCodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
