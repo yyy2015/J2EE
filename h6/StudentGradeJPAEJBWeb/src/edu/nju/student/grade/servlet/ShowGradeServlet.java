@@ -64,24 +64,23 @@ public class ShowGradeServlet extends HttpServlet {
             studentId = request.getParameter("studentId");
             password = request.getParameter("password");
         }
-        PrintWriter out = response.getWriter();
+
         ServletContext context = getServletContext();
 
         ScoreListBean scoreList = new ScoreListBean();
 
         System.out.println(studentId+" "+password);
         if(!gradeManageService.isStudentExit(studentId)){
-            out.print("学号不存在<br><br>");
-            out.print("<a href='login.html'>登录</a><br><br>");
+            context.getRequestDispatcher("/jsp/noStudentId.jsp").forward(request,response);
         }else if(!gradeManageService.isPasswordCorrect(studentId,password)){
-            out.print("学号或者密码错误<br><br>");
-            out.print("<a href='login.html'>登录</a><br><br>");
+            context.getRequestDispatcher("/jsp/idOrPwdWrong.jsp").forward(request,response);
         }else {
                 session.setAttribute("studentId", studentId);
                 session.setAttribute("password",password);
                 scoreList.setScoreList(gradeManageService.getStudentGrade(studentId, password));
 
                 session.setAttribute("scoreList", scoreList);
+            System.out.println("in grade serlvet"+response.getCharacterEncoding());
                 context.getRequestDispatcher("/jsp/showGrade.jsp").forward(request, response);
             }
 

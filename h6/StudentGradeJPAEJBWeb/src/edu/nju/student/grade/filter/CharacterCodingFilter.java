@@ -18,8 +18,8 @@ public class CharacterCodingFilter implements Filter {
         request.setCharacterEncoding("utf-8");
         response.setContentType("text/html;charset=UTF-8");
         response.setCharacterEncoding("UTF-8");
+        System.out.println("in filter"+response.getCharacterEncoding());
         chain.doFilter(request,response);
-        return;
     }
 
     public void destroy() {
