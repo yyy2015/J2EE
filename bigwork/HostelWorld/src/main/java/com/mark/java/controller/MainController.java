@@ -28,8 +28,9 @@ public class MainController {
         User u = new User();
         u.setUsername("Mark");
         us.add(u);
-        u.setUsername("Fawofolo");
-        us.add(u);
+        User u1 = new User();
+        u1.setUsername("Fawofolo");
+        us.add(u1);
         userService.saveUsers(us);
 
         return "index";

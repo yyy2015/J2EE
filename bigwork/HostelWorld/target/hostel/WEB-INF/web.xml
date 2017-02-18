@@ -46,8 +46,8 @@
     <!--读取spring配置文件-->
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:/META-INF/applicationContext.xml</param-value>
-        <param-value>classpath:/META-INF/infrastructure.xml</param-value>
+        <param-value>classpath:/META-INF/applicationContext.xml
+        ,classpath:/META-INF/infrastructure.xml</param-value>
     </context-param>
 
     <listener>

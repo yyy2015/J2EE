@@ -1,22 +1,22 @@
 package com.mark.java.entity;
 
-import org.hibernate.annotations.Table;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
+import javax.validation.constraints.Size;
 import java.io.Serializable;
 
 /**
  * Created by yyy on 2017/2/17.
  */
 @Entity
-@javax.persistence.Table
+@Table
 public class User implements Serializable{
     @Id
+    @Column(name="id")
     @GeneratedValue
     private  int id;
 
+    @Size(min=3)
     private String username;
 
     public int getId() {

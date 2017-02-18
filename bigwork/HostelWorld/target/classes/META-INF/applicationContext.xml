@@ -9,9 +9,7 @@
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
         http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd">
 
-    <context:component-scan base-package="com.mark.java.service"/>
-    <context:component-scan base-package="com.mark.java.entity"/>
-    <!-- 扫描文件（自动将servicec层注入） -->
-    <context:component-scan base-package="com.mark.java.dao"/>
+    <context:component-scan base-package="com.mark.java.*"/>
+
 
 </beans>
