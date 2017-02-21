@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/studentgrade</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">happy365</property>
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <property name="show_sql">true</property>
+        <property name="hibernate.connection.autocommit">true</property>
+        <!-- 自动把实体类与属性映射成数据库中的表与列 -->
+        <property name="hbm2ddl.auto">update</property>
+        <mapping class="edu.nju.student.grade.model.CourseEntity"/>
+        <mapping class="edu.nju.student.grade.model.ScoreEntity"/>
+        <mapping class="edu.nju.student.grade.model.StudentEntity"/>
+        <!-- Hibernate 5不支持 mapping -->
+        <!--mapping class="edu.nju.onlinestock.model.User"/-->
+
+    </session-factory>
+</hibernate-configuration>
