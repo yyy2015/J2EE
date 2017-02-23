@@ -7,50 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2841533-f4e1-4c98-99ac-075d67248bba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/StudentGradeHibernate_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/StudentGradeHibernate_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/nju/student/grade/model/Score.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeMVC/StudentGrade.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/dao/DaoHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/dao/StudentGradeDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/dao/impl/DaoHelpImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/model/Student.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/.idea/artifacts/StudentGrade_war.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/.idea/artifacts/StudentGrade_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/.idea/artifacts/StudentGrade_war_exploded.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/.idea/artifacts/StudentGrade_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/pom.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/business/ScoreListBean.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/business/ScoreListBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/dao/StudentGradeDao.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/dao/StudentGradeDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/factory/DaoFactory.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/factory/DaoFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/factory/ServiceFactory.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/factory/ServiceFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/filter/CharacterCodingFilter.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/filter/CharacterCodingFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/listener/CounterListener.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/listener/CounterListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/model/Score.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/model/Score.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/service/GradeManageService.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/service/GradeManageService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/service/impl/GradeManageImpl.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/service/impl/GradeManageImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/servlet/ShowGradeServlet.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/servlet/ShowGradeServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/servlet/UserConfirm.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/servlet/UserConfirm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/tag/CheckSessionHandler.java" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/java/edu/nju/student/grade/tag/CheckSessionHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/META-INF/context.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/META-INF/context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/WEB-INF/tlds/checkSession.tld" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/WEB-INF/tlds/checkSession.tld" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/jsp/online.jsp" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/jsp/online.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/jsp/showGrade.jsp" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/jsp/showGrade.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/login.html" afterPath="$PROJECT_DIR$/../StudentGradeMVC/src/main/webapp/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/META-INF/context.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/META-INF/context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/WEB-INF/tlds/checkSession.tld" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/WEB-INF/tlds/checkSession.tld" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/index.html" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/jsp/online.jsp" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/jsp/online.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/jsp/showGrade.jsp" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/jsp/showGrade.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/login.html" afterPath="$PROJECT_DIR$/../StudentGradeMVC/target/studentGrade/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../h5/StudentGradeEJBWeb/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../h5/StudentGradeEJBWeb/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StudentGrade.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,7 +51,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="697">
               <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
               <folding />
             </state>
@@ -104,7 +61,7 @@
       <file leaf-file-name="showGrade.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/showGrade.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="901">
               <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
               <folding />
             </state>
@@ -114,7 +71,7 @@
       <file leaf-file-name="online.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/online.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
+            <state relative-caret-position="17">
               <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding />
             </state>
@@ -136,7 +93,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,10 +103,13 @@
       <file leaf-file-name="StudentGradeDaoImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/nju/student/grade/dao/StudentGradeDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="986">
               <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#923#924#0" expanded="false" />
+                <element signature="e#961#962#0" expanded="false" />
+                <element signature="e#1062#1070#0" expanded="false" />
+                <element signature="e#2636#2644#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -166,12 +128,12 @@
       <file leaf-file-name="GradeManageImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/nju/student/grade/service/impl/GradeManageImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="731">
               <caret line="56" column="67" selection-start-line="56" selection-start-column="67" selection-end-line="56" selection-end-column="67" />
               <folding>
-                <element signature="e#1135#1142#0" expanded="true" />
-                <element signature="e#2019#2020#0" expanded="true" />
-                <element signature="e#2093#2094#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#673#674#0" expanded="false" />
+                <element signature="e#714#715#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -180,8 +142,8 @@
       <file leaf-file-name="ShowGradeServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/nju/student/grade/servlet/ShowGradeServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="-361">
+              <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -321,32 +283,31 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
+              <option name="myItemId" value="StudentGradeHibernate_h7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
+              <option name="myItemId" value="StudentGradeHibernate_h7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
+              <option name="myItemId" value="StudentGradeHibernate_h7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
+              <option name="myItemId" value="StudentGradeHibernate_h7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
+              <option name="myItemId" value="StudentGradeHibernate_h7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -355,115 +316,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tag" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudentGradeHibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grade" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1045,15 +903,16 @@
       <workItem from="1487121851909" duration="591000" />
       <workItem from="1487676946868" duration="1878000" />
       <workItem from="1487678908981" duration="8420000" />
+      <workItem from="1487688932040" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119356000" />
+    <option name="totallyTimeSpent" value="119481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1065,7 +924,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4147541" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20655738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26626325" sideWeight="0.20655738" order="3" side_tool="true" content_ui="tabs" />
@@ -1076,8 +935,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1221,7 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1297,20 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#366#367#0" expanded="false" />
-            <element signature="e#398#399#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#490#491#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#586#587#0" expanded="false" />
-            <element signature="e#626#627#0" expanded="false" />
-            <element signature="e#658#659#0" expanded="false" />
-            <element signature="e#735#736#0" expanded="false" />
-            <element signature="e#766#767#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-            <element signature="e#854#855#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1318,16 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#411#412#0" expanded="false" />
-            <element signature="e#451#452#0" expanded="false" />
-            <element signature="e#520#521#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#587#588#0" expanded="false" />
-            <element signature="e#619#620#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1335,21 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#380#381#0" expanded="false" />
-            <element signature="e#412#413#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#504#505#0" expanded="false" />
-            <element signature="e#578#579#0" expanded="false" />
-            <element signature="e#609#610#0" expanded="false" />
-            <element signature="e#657#658#0" expanded="false" />
-            <element signature="e#697#698#0" expanded="false" />
-            <element signature="e#764#765#0" expanded="false" />
-            <element signature="e#793#794#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#870#871#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,7 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1365,31 +1182,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/nju/student/grade/service/impl/GradeManageImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="731">
           <caret line="56" column="67" selection-start-line="56" selection-start-column="67" selection-end-line="56" selection-end-column="67" />
           <folding>
-            <element signature="e#1135#1142#0" expanded="true" />
-            <element signature="e#2019#2020#0" expanded="true" />
-            <element signature="e#2093#2094#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#673#674#0" expanded="false" />
+            <element signature="e#714#715#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1404,10 +1207,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/nju/student/grade/dao/StudentGradeDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="986">
           <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#961#962#0" expanded="false" />
+            <element signature="e#1062#1070#0" expanded="false" />
+            <element signature="e#2636#2644#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1422,7 +1228,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="697">
           <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
           <folding />
         </state>
@@ -1430,7 +1236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/showGrade.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="901">
           <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
           <folding />
         </state>
@@ -1438,7 +1244,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/online.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
+        <state relative-caret-position="17">
           <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding />
         </state>
@@ -1456,14 +1262,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/nju/student/grade/servlet/ShowGradeServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="-361">
+          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
           <folding />
         </state>
       </provider>
