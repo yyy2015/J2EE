@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <package name="structs2" namespace="/" extends="struts-default">
+        <action name="login" class="loginAction">
+            <result name="success">/jsp/showGrade.jsp</result>
+            <result name="idWrong">/jsp/idWrong.jsp</result>
+            <result name="idOrPwdWrong">/jsp/idOrPwdWrong.jsp</result>
+        </action>
+
+        <action name="logout" class="loginAction" method="logout">
+            <result name="logout">/jsp/login.jsp</result>
+        </action>
+
+    </package>
+</struts>
